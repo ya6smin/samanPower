@@ -1,0 +1,71 @@
+<div class="cards__inner">
+            
+	<div class="cards__items">
+							<article style="--g-card--image--object-fit: cover;" class="g-card animate-element has-image g-card--type--icon">
+<div class="g-card__inner">
+			<div class="g-card__header">
+								<h2 class="g-card__heading is-style-typestyle-h4">123,836</h2>
+		
+							<div class="g-card__content">
+				<p>People supported since 2007.</p>
+			</div>
+					</div>
+			
+
+	
+
+	</div>
+
+	<div class="g-card__image">
+	<div class="g-card__image-inner img-fit">
+		<img decoding="async" width="1200" height="1200" src="https://cdn.shortpixel.ai/spai/ret_img/renewable-world.org/wp-content/uploads/2023/10/RW_Group_Icon_RGB-ai.svg" data-spai-egr="1" class="attachment-medium_large size-medium_large" alt="Group Icon">            </div>
+</div>
+</article>
+							<article style="--g-card--image--object-fit: cover;" class="g-card animate-element has-image g-card--type--icon">
+<div class="g-card__inner">
+			<div class="g-card__header">
+								<h2 class="g-card__heading is-style-typestyle-h4">16,574</h2>
+		
+							<div class="g-card__content">
+				<p>People benefitting from electrified health centres in 2022</p>
+			</div>
+					</div>
+			
+
+	
+
+	</div>
+
+	<div class="g-card__image">
+	<div class="g-card__image-inner img-fit">
+		<img decoding="async" width="1200" height="1200" src="https://cdn.shortpixel.ai/spai/ret_img/renewable-world.org/wp-content/uploads/2023/10/RW_Health_Education_Icon_RGB-ai.svg" data-spai-egr="1" class="attachment-medium_large size-medium_large" alt="Health &amp; Education Icon">            </div>
+</div>
+</article>
+							<article style="--g-card--image--object-fit: cover;" class="g-card animate-element has-image g-card--type--icon">
+<div class="g-card__inner">
+			<div class="g-card__header">
+								<h2 class="g-card__heading is-style-typestyle-h4">32,836</h2>
+		
+							<div class="g-card__content">
+				<p>Metric tonnes of carbon avoided.</p>
+			</div>
+					</div>
+			
+
+	
+
+	</div>
+
+	<div class="g-card__image">
+	<div class="g-card__image-inner img-fit">
+		<img decoding="async" width="1200" height="1200" src="https://cdn.shortpixel.ai/spai/ret_img/renewable-world.org/wp-content/uploads/2023/10/RW_Climate_Change_Icon_CMYK-ai.svg" data-spai-egr="1" class="attachment-medium_large size-medium_large" alt="Climate Change Icon">            </div>
+</div>
+</article>
+					</div>
+
+					<div class="cards__footer">
+			<div class="cards__more-link">
+					<a href="https://renewable-world.org/our-impact/" class="g-button">Our Impact</a>
+			</div>
+		</div>
+			</div>
