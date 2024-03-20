@@ -15,7 +15,7 @@
 
 			   <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
 				 <li class="nav-item" role="presentation">
-				   <button class="nav-link active" id="why-choose-us" data-bs-toggle="pill" data-bs-target="#pills-choose-us" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Why Choose Us</button>
+				   <button class="nav-link active" id="why-choose-us" data-bs-toggle="pill" data-bs-target="#pills-choose-us" type="button" role="tab" aria-controls="pills-home" aria-selected="true">Our Core Values</button>
 				 </li>
 				 <li class="nav-item" role="presentation">
 				   <button class="nav-link" id="our-mission" data-bs-toggle="pill" data-bs-target="#pills-mission" type="button" role="tab" aria-controls="pills-profile" aria-selected="false" tabindex="-1">our mission</button>
@@ -27,16 +27,16 @@
 			   <div class="tab-content" id="pills-tabContent">
 				 <div class="tab-pane fade show active" id="pills-choose-us" role="tabpanel" aria-labelledby="why-choose-us" tabindex="0">
 						 <div class="about-desc">
-						   <p>We are dedicated to delivering excellence in every aspect of our operations, from the development of cutting-edge
-							 renewable energy projects to the provision of unparalleled customer service and support.</p>
+						   <p>We are committed to delivering excellence in every aspect of our work, striving for perfection in
+							our solutions, services, and customer experiences..</p>
 					   </div>
 					   <div class="single-about-item">
 						   <div class="about-box">
 							   <div class="about-list-item">
 								   <ul>
-									   <li>Customized Solutions</li>
-									   <li>Innovation and Technology</li>
-									   <li>Environmental Responsibility</li>
+									   <li>Innovation</li>
+									   <li>Customer-Centricity</li>
+									   <li>Sustainability</li>
 									  
 								   </ul>
 							   </div>

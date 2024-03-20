@@ -114,7 +114,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     z-index: 9;
     position: relative;
     margin-bottom: -143px;
-    background: #ffffff !important;
+    background: #F6F6EE !important;
 }
 
 .header-menu {
@@ -357,10 +357,10 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
 
 .hero-content p {
     opacity: 0.800;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 28px;
     color: #0b0b0b;
-    font-weight: 400;
+    font-weight: 600;
     width: 49%;
     margin: 20px 0 0;
 }
@@ -629,7 +629,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Echofy About Area Css-->
 ==================================---*/
 .about-area {
-    background-color:#fff;
+    background-color:#F6F6EE;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -1798,9 +1798,9 @@ transform: rotate(360deg);
     transform: scale(1);
 }
 
-.footer-area .row.add-footer-class {
+/* .footer-area .row.add-footer-class {
     padding: 111px 0 0;
-}
+} */
 
 p.footer-desc {
     margin: 24px 0 0;
@@ -4706,7 +4706,7 @@ span.price {
    <!--Echofy Strat Call-Do-Action Area Home Four Css-->
 =========================================================---*/
 .home-four.call-do-action-area {
-   background: url(../images/home4/call-do-action-bg.jpg);
+  background-color:  #F6F6EE;;;
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
@@ -4715,7 +4715,7 @@ span.price {
 
 .home-four .call-do-action-content h4 {
     font-size: 46px;
-    color: #fff;
+    color: #0b0b0b;
     margin: 0;
     font-weight: 600;
 }
@@ -4728,7 +4728,7 @@ span.price {
 
 .home-four.call-do-action-area .style-three.echofy-button a {
     display: inline-block;
-    background: #00181A;
+    background: #649962;
     color: #fff;
     font-size: 17px;
     font-weight: 500;
@@ -7432,6 +7432,7 @@ p.blog-list-desc {
 
 .contact-area {
     padding: 123px 0 118px;
+    background-color: #F6F6EE;
 }
 
 .contact-area .section-title.left {

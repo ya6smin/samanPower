@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<div class="section-title center">
-					<h1>What We Do</h1>
+					<h1>Why Choose Us?</h1>
 				</div>
 			</div>
 		</div>

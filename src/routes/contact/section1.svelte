@@ -11,21 +11,22 @@
 				<div class="section-title left">
 					<h1>Get in touch with us </h1>
 				</div>
-				<form action="#/">
+				<form action="https://api.web3forms.com/submit" method="POST">
 					<div class="row">
 						<div class="col-lg-6">
 							<div class="single-input-box">
+								<input type="hidden" name="access_key" value="61f7f201-5500-4bea-8199-1e0a8a248cd4">
 								<input type="text" name="name" placeholder="Enter Your Name*">
 							</div>
 						</div>						
 						<div class="col-lg-6">
 							<div class="single-input-box">
-								<input type="text" name="Email" placeholder="Enter Your Email*">
+								<input type="email" name="Email" placeholder="Enter Your Email*">
 							</div>
 						</div>						
 						<div class="col-lg-6">
 							<div class="single-input-box">
-								<input type="text" name="Phone" placeholder="Phone Number*">
+								<input type="number" name="Phone" placeholder="Phone Number*">
 							</div>
 						</div>						
 						<div class="col-lg-6">
@@ -35,7 +36,7 @@
 						</div>
 						<div class="col-lg-12">
 							<div class="single-input-box">
-								<textarea name="Massage" placeholder="Write Message"></textarea>
+								<textarea name="Message" placeholder="Write Message"></textarea>
 							</div>
 						</div>
 						<div class="col-lg-12">
