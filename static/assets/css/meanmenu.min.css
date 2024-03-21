@@ -1,6 +1,6 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-  background: #49AF45;
+  background:#649962;
   float: left;
   min-height: 60px;
   padding: 4px 0 0;
@@ -124,7 +124,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Echofy";
+    content: url('/static/assets/images/fav-icon/icon-saman.png');
     font-size: 28px;
     font-weight: 600;
     left: 10px;

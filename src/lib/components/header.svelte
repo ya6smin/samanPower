@@ -1,5 +1,5 @@
-
-<div class="header-area" id="sticky-header">
+ 
+ <div class="header-area" id="sticky-header">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-3">
@@ -30,6 +30,23 @@
 				</div>
 			</div>
 		</div>
+	</div>
+</div> 
+
+<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
+	<div class="mobile-menu">
+		<nav class="header-menu" style="display: block;">
+			<ul class="nav_scroll">
+				<li class="menu-item-has-children"><a href="/">Home</a>
+                  
+				</li>
+				<li><a href="./about">About</a>
+				</li>
+				
+				<li><a href="./contact">Contact</a></li>
+				<li><a href="./service">Service</a></li>
+			</ul>
+		</nav>
 	</div>
 </div>
 
