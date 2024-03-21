@@ -80,7 +80,7 @@ a.meanmenu-reveal{display:none}
 .mean-remove{display:none!important}
 .mean-container .mean-bar::after {
   color: #ffffff;
-  content: "MENU";
+  content: "SAMAN";
   font-size: 21px;
   left: 5%;
   position: absolute;
@@ -124,7 +124,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: url('/static/assets/images/fav-icon/icon-saman.png');
+    content:"Saman Energy";
     font-size: 28px;
     font-weight: 600;
     left: 10px;

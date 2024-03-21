@@ -1,5 +1,5 @@
  
- <div class="header-area" id="sticky-header">
+  <div class="header-area" id="sticky-header">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-3">
