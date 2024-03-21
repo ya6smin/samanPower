@@ -22,10 +22,10 @@
 					</div>
 					<div class="footer-widget-menu">
 						<ul>
-							<li><a href="index-2.html"><i class="fas fa-angle-right"></i>Home</a></li>
-							<li><a href="about.html"><i class="fas fa-angle-right"></i>About Us</a></li>
-							<li><a href="service.html"><i class="fas fa-angle-right"></i>Our Services</a></li>
-							
+							<li><a href="/"><i class="fas fa-angle-right"></i>Home</a></li>
+							<li><a href="./about"><i class="fas fa-angle-right"></i>About Us</a></li>
+							<li><a href="./service"><i class="fas fa-angle-right"></i>Our Services</a></li>
+							<li><a href="./contact"><i class="fas fa-angle-right"></i> Contacts</a></li>
 						</ul>
 					</div>
 				</div>

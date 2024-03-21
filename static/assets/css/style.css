@@ -1793,7 +1793,7 @@ transform: rotate(360deg);
 
 
 .footer-social-icon ul li i:hover{
-   color:#49AE44;
+   color:#fff;
 } 
 
 .footer-social-icon ul li i:after{
@@ -1851,7 +1851,7 @@ p.footer-desc {
 }
 
 .footer-contect-info ul li i {
-    color: #49AE44;
+    color: #fff;
     display: inline-block;
     margin-right: 12px;
 }
