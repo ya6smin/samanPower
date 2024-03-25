@@ -10,10 +10,10 @@
 			<div class="col-lg-9">
 				<div class="header-menu">
 					<ul>
-						<li class="menu-item-has-children"><a href="/">Home</a>
+						<li class="menu-item-has-children"><a href="/">Overview</a>
                         
 						</li>
-						<li><a href="./about">About</a></li>
+						<li><a href="./about">About Us</a></li>
 						<!-- <li><a href="./service">Services</a>
                         
 						</li> -->
@@ -44,7 +44,7 @@
 				</li>
 				
 				<li><a href="./contact">Contact</a></li>
-				<li><a href="./service">Service</a></li>
+				
 			</ul>
 		</nav>
 	</div>

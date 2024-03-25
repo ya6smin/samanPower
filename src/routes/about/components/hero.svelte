@@ -3,9 +3,10 @@
         <div class="row align-items-center">
             <div class="col-lg-12">
                 <div class="hero-content">
-                    <h2 class="sub-title"  style="animation-delay: 100ms; opacity: 1;">About Us</h2>
-                    <p>At Saman energy we are dedicated to fostering a sustainable future by providing innovative solutions
-                         in renewable energy and green finance.</p>
+    
+                    <p>Saman Power  is a key player in Kenya's electrical power sector, renowned for its excellence
+                         in designing, installing, and maintaining tailored electrical systems
+                         for diverse residential, commercial, and industrial needs in both public and private domains.</p>
                  
                 </div>
              	

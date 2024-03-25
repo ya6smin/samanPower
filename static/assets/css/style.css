@@ -314,11 +314,11 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
    <!--Echofy Hero Area Css-->
 ==================================---*/
 .hero-area {
-    background: url(../images/home1/solar.jpg);
+    background: url(../images/home1/iirigation.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 700px;
+    height: 500px;
     padding-top: 80px;
     position: relative;
 }
@@ -328,7 +328,7 @@ Tags: consulting, finance, corporate, business, consultant, multipurpose, techno
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-    height: 700px;
+    height: 500px;
     padding-top: 80px;
     position: relative;
 }

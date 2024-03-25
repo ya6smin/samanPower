@@ -1,7 +1,7 @@
 <div class="services-area home-three">
 	<div class="container">
 		<div class="row">
-            <h3 class="text-center">What We Do</h3>
+            <h2 class="text-center">What We Do</h2>
 			<div class="col-lg-4 col-md-6">
 				<div class="single-service-box">
                     

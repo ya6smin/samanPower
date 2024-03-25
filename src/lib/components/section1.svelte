@@ -8,7 +8,7 @@
 
                   
                    
-                <h3 class="text-center mb-4"> Saman Power Solutions Leading Kenya's Electrical Revolution</h3>
+                <h2 class="text-center mb-4"> Saman Power Solutions Leading Kenya's Electrical Revolution</h2>
                 <div class="col-lg-12 ">
 
                     <p> <strong>Saman Power Solutions Ltd.</strong> shines brightly as a leading force in Kenya's electrical power domain, aspiring to carve out a reputation for unparalleled excellence in crafting, implementing, and upholding electrical solutions perfectly suited to the varied needs of homes,

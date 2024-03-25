@@ -10,7 +10,7 @@
 						<h4>Contact</h4>
 					</div>
 					<ul>
-						<li><i class="bi bi-telephone-plus-fill"></i>+25422143074</li>
+						<li><i class="bi bi-telephone-plus-fill"></i>+25422143073</li>
 						<li><i class="bi bi-envelope-open-fill"></i>saman@gmail.com</li>
 					</ul>
 				</div>
@@ -24,7 +24,6 @@
 						<ul>
 							<li><a href="/"><i class="fas fa-angle-right"></i>Home</a></li>
 							<li><a href="./about"><i class="fas fa-angle-right"></i>About Us</a></li>
-							<li><a href="./service"><i class="fas fa-angle-right"></i>Our Services</a></li>
 							<li><a href="./contact"><i class="fas fa-angle-right"></i> Contacts</a></li>
 						</ul>
 					</div>
