@@ -14,14 +14,14 @@
                         
 						</li>
 						<li><a href="./about">About</a></li>
-						<li><a href="./service">Services</a>
+						<!-- <li><a href="./service">Services</a>
                         
-						</li>
+						</li> -->
 						
 						
 						<li><a href="./contact">Contact</a></li>
 
-						<li><a href="#/">Donate</a></li>
+						<!-- <li><a href="#/">Donate</a></li> -->
 					</ul>
 					<div class="header-secrch-icon search-box-outer">
 						<a href="#/"><i class="bi bi-search"></i></a>

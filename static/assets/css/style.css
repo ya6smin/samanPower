@@ -4722,7 +4722,7 @@ span.price {
    <!--Echofy Strat Call-Do-Action Area Home Four Css-->
 =========================================================---*/
 .home-four.call-do-action-area {
-  background-color:  #F6F6EE;;;
+  background-color:#649962;
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
@@ -4744,8 +4744,8 @@ span.price {
 
 .home-four.call-do-action-area .style-three.echofy-button a {
     display: inline-block;
-    background: #649962;
-    color: #fff;
+    background: #F6F6EE;
+    color: black;
     font-size: 17px;
     font-weight: 500;
     padding: 15px 31px;

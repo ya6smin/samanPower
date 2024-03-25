@@ -63,7 +63,7 @@
 					</div>
 					<div class="contact-info-content">
 						<h4>Office Address</h4>
-						<p>Lenwood Apartment 2A, Nairobi</p>
+						<p>Wood Avenue, Nairobi</p>
 					</div>
 				</div>
 			</div>			
@@ -74,8 +74,8 @@
 					</div>
 					<div class="contact-info-content">
 						<h4>Make A Call</h4>
-						<p>+2542214336</p>
-                        <p> +2542218336</p>
+						<p>+25422143073</p>
+                        
 						
 					</div>
 				</div>
